@@ -1,2 +1,2 @@
 # hello-web-app
-This project 
+This project is a practice for creating a web-base app using Microsoft Studio.
